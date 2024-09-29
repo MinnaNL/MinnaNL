@@ -2,6 +2,10 @@
 
 ✨ I am Minna; a Frontend Developer Student with love fore UX/UI Design ✨ 
 
+Competencies:
+Javascript | HTML | CSS | React | Bootstrap | Git | Headless CMS | Databases | Backend | Frameworks | Figma | Agile | Responsive Design | Availability | UX/UI Design | Interaction Design | Graphic Design |  Adobe Creative Suite
+
+Some of my work:
 
 
 <img width="1281" alt="Screenshot 2024-09-26 at 11 31 46" src="https://github.com/user-attachments/assets/b25ec8c6-8fc3-4ff4-bc85-f2858bab1d21">
@@ -21,8 +25,7 @@
 
 
 
-Competencies:
-Javascript | HTML | CSS | React | Bootstrap | Git | Headless CMS | Databases | Backend | Frameworks | Figma | Agile | Responsive Design | Availability | UX/UI Design | Interaction Design | Graphic Design |  Adobe Creative Suite
+
 
 
 
