@@ -16,6 +16,8 @@
 
 ![black-mockup – 6](https://github.com/user-attachments/assets/aa38e45e-22db-4f9b-ad58-6903e9776ea8)
 
+[Självporträttetpdf kopia10.pdf](https://github.com/user-attachments/files/17178558/Sjalvportrattetpdf.kopia10.pdf)
+
 Competencies:
 Javascript | HTML | CSS | React | Bootstrap | Git | Headless CMS | Databases | Backend | Frameworks | Figma | Agile | Responsive Design | Availability | UX/UI Design | Interaction Design | Graphic Design |  Adobe Creative Suite
 
