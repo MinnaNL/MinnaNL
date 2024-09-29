@@ -10,11 +10,7 @@
 
 <img width="1023" alt="Screenshot 2024-09-29 at 10 21 47" src="https://github.com/user-attachments/assets/6ec4068b-ddb1-47d8-813c-f3890e1105aa">
 
-<img width="1470" alt="Screenshot 2024-09-29 at 10 16 52" src="https://github.com/user-attachments/assets/97deabf2-fed1-4bec-980b-ff698e3be728">
-
 <img width="1470" alt="Screenshot 2024-09-29 at 10 29 49" src="https://github.com/user-attachments/assets/a5712b68-9314-4193-b44e-4c9c0a907aec"> 
-
-<img width="1024" alt="Screenshot 2024-09-29 at 10 12 02" src="https://github.com/user-attachments/assets/1bb0db7e-cd93-45c1-944e-fa54811129b2">
 
 ![black-mockup – 6](https://github.com/user-attachments/assets/aa38e45e-22db-4f9b-ad58-6903e9776ea8)
 
