@@ -16,7 +16,9 @@ Some of my work:
 
 <img width="1470" alt="Screenshot 2024-10-03 at 18 35 54" src="https://github.com/user-attachments/assets/55d65d7b-de6f-479e-8dd2-d2ccbc5fd32a">
 
-<img width="1470" alt="Screenshot 2024-10-04 at 00 24 38" src="https://github.com/user-attachments/assets/9f45f30a-b074-4d68-a6ce-1754b6543d26">
+<img width="1470" alt="Screenshot 2024-10-03 at 18 37 17" src="https://github.com/user-attachments/assets/7d6c5549-288f-40ce-97e6-540af5af08ca">
+
+
 
 <img width="1469" alt="Screenshot 2024-10-04 at 00 25 08" src="https://github.com/user-attachments/assets/04803f1a-687a-4df0-adc0-63becaee2e19">
 
