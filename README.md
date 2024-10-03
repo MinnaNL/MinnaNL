@@ -16,18 +16,17 @@ Some of my work:
 
 <img width="1470" alt="Screenshot 2024-10-03 at 18 35 54" src="https://github.com/user-attachments/assets/55d65d7b-de6f-479e-8dd2-d2ccbc5fd32a">
 
-<img width="1470" alt="Screenshot 2024-10-03 at 18 36 56" src="https://github.com/user-attachments/assets/c2140df9-0e52-4848-a363-e9249364ead4">
-
 <img width="1470" alt="Screenshot 2024-10-04 at 00 24 38" src="https://github.com/user-attachments/assets/9f45f30a-b074-4d68-a6ce-1754b6543d26">
 
 <img width="1469" alt="Screenshot 2024-10-04 at 00 25 08" src="https://github.com/user-attachments/assets/04803f1a-687a-4df0-adc0-63becaee2e19">
 
+![black-mockup – 6](https://github.com/user-attachments/assets/a3df1e79-86a6-4594-b52f-720cf81e0ebe)
 
 <img width="1376" alt="Screenshot 2024-09-17 at 11 55 21" src="https://github.com/user-attachments/assets/f9af0890-dfec-496a-915a-6ea7b8e1e3a4">
 
-![black-mockup – 6](https://github.com/user-attachments/assets/a3df1e79-86a6-4594-b52f-720cf81e0ebe)
-
 <img width="1470" alt="Screenshot 2024-09-29 at 10 29 49" src="https://github.com/user-attachments/assets/a5712b68-9314-4193-b44e-4c9c0a907aec"> 
+
+
 
 
 
