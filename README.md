@@ -12,11 +12,7 @@ Some of my work:
 
 <img width="1468" alt="Screenshot 2024-10-04 at 00 05 41" src="https://github.com/user-attachments/assets/8ebcb7ec-ed5e-4ccc-95d3-0937e1a78462">
 
-<img width="1470" alt="Screenshot 2024-10-03 at 23 23 31" src="https://github.com/user-attachments/assets/ff45dbf7-cb61-4d4d-95ec-6a3bd3c7fdc9">
-
-
-
-<img width="1458" alt="Screenshot 2024-10-03 at 23 23 55" src="https://github.com/user-attachments/assets/e6a0b9e9-022b-4f99-a744-386cb3168c2e">
+<img width="1470" alt="Screenshot 2024-10-04 at 00 13 04" src="https://github.com/user-attachments/assets/e0c8c7f6-afc1-4002-a616-b7eb36f527e2">
 
 <img width="1470" alt="Screenshot 2024-10-03 at 18 35 54" src="https://github.com/user-attachments/assets/55d65d7b-de6f-479e-8dd2-d2ccbc5fd32a">
 
