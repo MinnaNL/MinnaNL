@@ -10,9 +10,9 @@ Some of my work:
 
 <img width="1281" alt="Screenshot 2024-09-26 at 11 31 46" src="https://github.com/user-attachments/assets/b25ec8c6-8fc3-4ff4-bc85-f2858bab1d21">
 
-<img width="1468" alt="Screenshot 2024-10-04 at 00 05 41" src="https://github.com/user-attachments/assets/8ebcb7ec-ed5e-4ccc-95d3-0937e1a78462">
-
 <img width="1470" alt="Screenshot 2024-10-04 at 00 13 04" src="https://github.com/user-attachments/assets/e0c8c7f6-afc1-4002-a616-b7eb36f527e2">
+
+<img width="1468" alt="Screenshot 2024-10-04 at 00 05 41" src="https://github.com/user-attachments/assets/8ebcb7ec-ed5e-4ccc-95d3-0937e1a78462">
 
 <img width="1470" alt="Screenshot 2024-10-03 at 18 35 54" src="https://github.com/user-attachments/assets/55d65d7b-de6f-479e-8dd2-d2ccbc5fd32a">
 
